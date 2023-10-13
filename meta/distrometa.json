@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "rss": "http://127.0.0.1:8000/news/news.rss",
+    "discord": {
+      "clientId": "931890214782259261",
+      "smallImageText": "Modランチャー",
+      "smallImageKey": "pack_mod"
+    }
+  }
+}
