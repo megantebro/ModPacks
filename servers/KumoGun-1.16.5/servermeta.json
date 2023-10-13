@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/softdata/git/Nebula/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "くも銃Mod (Minecraft 1.16.5)",
+    "description": "くも銃Mod Minecraft 1.16.5",
+    "address": "",
+    "discord": {
+			"shortId": "Minecraft",
+			"largeImageText": "Minecraft",
+			"largeImageKey": "pack_kpw"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.39"
+  },
+  "untrackedFiles": []
+}
