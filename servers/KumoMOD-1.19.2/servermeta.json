@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/softdata/git/Nebula/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "くも工業 (Minecraft 1.19.2)",
+    "description": "くも工業 Minecraft 1.19.2",
+    "address": "",
+    "discord": {
+			"shortId": "Minecraft",
+			"largeImageText": "Minecraft",
+			"largeImageKey": "pack_kpw"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "43.3.2"
+  },
+  "untrackedFiles": []
+}
