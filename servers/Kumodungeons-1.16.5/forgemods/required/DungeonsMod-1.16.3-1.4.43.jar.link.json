@@ -1,0 +1,10 @@
+{
+  "id": "com.dainxt:dungeonsmod:1.16.3-1.4.43@jar",
+  "name": "Dungeons Mod",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1743846,
+    "url": "https://mediafilez.forgecdn.net/files/3549/734/DungeonsMod-1.16.3-1.4.43.jar",
+    "MD5": "1e994ad60f7f7ac8295dfc3347924848"
+  }
+}

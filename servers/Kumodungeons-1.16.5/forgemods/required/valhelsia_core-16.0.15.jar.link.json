@@ -1,0 +1,10 @@
+{
+  "id": "net.valhelsia:valhelsia_core:16.0.15@jar",
+  "name": "Valhelsia Core",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 608118,
+    "url": "https://mediafilez.forgecdn.net/files/3592/369/valhelsia_core-16.0.15.jar",
+    "MD5": "39bfa258ac7c15b3787838df57b4d872"
+  }
+}

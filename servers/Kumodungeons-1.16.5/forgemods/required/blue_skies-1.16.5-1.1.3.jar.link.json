@@ -1,0 +1,10 @@
+{
+  "id": "com.legacy:blue_skies:1.1.3@jar",
+  "name": "Blue Skies",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 97691834,
+    "url": "https://mediafilez.forgecdn.net/files/3411/324/blue_skies-1.16.5-1.1.3.jar",
+    "MD5": "ea5c5a73adb61753fc614cfc7b32320f"
+  }
+}

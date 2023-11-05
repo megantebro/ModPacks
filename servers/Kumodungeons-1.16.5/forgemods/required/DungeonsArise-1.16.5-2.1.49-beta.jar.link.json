@@ -1,0 +1,10 @@
+{
+  "id": "net.aurelj:dungeons_arise:2.1.49@jar",
+  "name": "When Dungeons Arise",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 5544981,
+    "url": "https://mediafilez.forgecdn.net/files/3534/647/DungeonsArise-1.16.5-2.1.49-beta.jar",
+    "MD5": "3fb03d325ae6459f9352bcc6a1c632c8"
+  }
+}
