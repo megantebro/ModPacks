@@ -1,0 +1,10 @@
+{
+  "id": "journeymap:journeymap:5.9.16@jar",
+  "name": "Journeymap",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 7137692,
+    "url": "https://mediafilez.forgecdn.net/files/4841/246/journeymap-1.20.1-5.9.16-neoforge.jar",
+    "MD5": "b8bd18de5b15419bb999f176ac48718f"
+  }
+}

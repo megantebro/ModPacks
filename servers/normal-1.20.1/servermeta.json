@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/softdata/git/Nebula/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "1.20.1 (Minecraft 1.20.1)",
+    "description": "1.20.1MODなし Minecraft 1.20.1",
+    "address": "",
+    "discord": {
+			"shortId": "Minecraft",
+			"largeImageText": "Minecraft",
+			"largeImageKey": "pack_kpw"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.2.4"
+  },
+  "untrackedFiles": []
+}
