@@ -1,0 +1,10 @@
+{
+  "id": "de.maxhenkel.miningdimension:mining_dimension:1.19.2-1.0.40@jar",
+  "name": "Mining World",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 149686,
+    "url": "https://mediafilez.forgecdn.net/files/4688/881/mining_dimension-1.19.2-1.0.40.jar",
+    "MD5": "e06be12719ee9f82bc85fb06aeefbfaf"
+  }
+}
