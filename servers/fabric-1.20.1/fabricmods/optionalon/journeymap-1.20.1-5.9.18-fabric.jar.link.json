@@ -1,0 +1,10 @@
+{
+  "id": "journeymap:journeymap:5.9.18@jar",
+  "name": "Journeymap",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 7270799,
+    "url": "https://mediafilez.forgecdn.net/files/4873/844/journeymap-1.20.1-5.9.18-fabric.jar",
+    "MD5": "7d13ed3d2e5137be5e6f3eed73f777b6"
+  }
+}

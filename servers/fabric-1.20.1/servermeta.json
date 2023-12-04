@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/softdata/git/KPWModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "1.20.1 Fabric (Minecraft 1.20.1)",
+    "description": "1.20.1MODなし Minecraft 1.20.1",
+    "address": "",
+    "discord": {
+			"shortId": "Minecraft",
+			"largeImageText": "Minecraft",
+			"largeImageKey": "pack_kpw"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.15.0"
+  },
+  "untrackedFiles": []
+}
