@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/git/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "じらます天国Mod (Minecraft 1.19.2)",
+    "description": "じらます天国Mod Minecraft 1.19.2 (Forge v43.3.0)",
+    "address": "",
+    "discord": {
+			"shortId": "Minecraft",
+			"largeImageText": "Minecraft",
+			"largeImageKey": "pack_kpw"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "43.3.0"
+  },
+  "untrackedFiles": []
+}
