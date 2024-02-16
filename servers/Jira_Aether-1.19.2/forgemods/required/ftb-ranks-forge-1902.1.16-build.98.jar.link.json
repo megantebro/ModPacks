@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbranks:1902.1.16-build.98@jar",
+  "name": "FTB Ranks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 79727,
+    "url": "https://edge.forgecdn.net/files/4781/637/ftb-ranks-forge-1902.1.16-build.98.jar",
+    "MD5": "2599fea654817c7f1d94143750c247da"
+  }
+}

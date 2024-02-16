@@ -1,0 +1,10 @@
+{
+  "id": "jeresources:jeresources:1.2.3.243@jar",
+  "name": "Just Enough Resources",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 276327,
+    "url": "https://edge.forgecdn.net/files/4862/430/JustEnoughResources-1.19.2-1.2.3.243.jar",
+    "MD5": "d427f739ad0d8c6bc9c465e5065d775a"
+  }
+}

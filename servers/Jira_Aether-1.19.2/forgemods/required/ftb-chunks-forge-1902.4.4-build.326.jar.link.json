@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbchunks:1902.4.4-build.326@jar",
+  "name": "FTB Chunks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 847265,
+    "url": "https://edge.forgecdn.net/files/5001/266/ftb-chunks-forge-1902.4.4-build.326.jar",
+    "MD5": "aec44a8de088fd2ee59d56da0e8bef43"
+  }
+}
