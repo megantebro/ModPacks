@@ -1,0 +1,10 @@
+{
+  "id": "me.flashyreese.mods:reeses_sodium_options:1.0.7-mc1.19.2@jar",
+  "name": "TexTrue's Rubidium Options",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 212100,
+    "url": "https://edge.forgecdn.net/files/4743/523/TextruesRubidiumOptions-1.0.7-mc1.19.2.jar",
+    "MD5": "a248359c110f22e6a3e7fffc6111849e"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.teamresourceful:resourcefullib:1.1.24@jar",
+  "name": "Resourceful Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 231039,
+    "url": "https://edge.forgecdn.net/files/4477/753/resourcefullib-forge-1.19.2-1.1.24.jar",
+    "MD5": "dd9aba7d4744ae995b67980ee814ef13"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftblibrary:1902.4.1-build.236@jar",
+  "name": "FTB Library",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 603296,
+    "url": "https://edge.forgecdn.net/files/4661/834/ftb-library-forge-1902.4.1-build.236.jar",
+    "MD5": "ab990dddbef322a053b9812a44d4439f"
+  }
+}

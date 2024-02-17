@@ -1,0 +1,10 @@
+{
+  "id": "de.maxhenkel:gravestone:1.19.2-1.0.14@jar",
+  "name": "Gravestone Mod",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 312663,
+    "url": "https://edge.forgecdn.net/files/5013/921/gravestone-forge-1.19.2-1.0.14.jar",
+    "MD5": "a9ba1183eaf81652e77de564a5bd57b9"
+  }
+}

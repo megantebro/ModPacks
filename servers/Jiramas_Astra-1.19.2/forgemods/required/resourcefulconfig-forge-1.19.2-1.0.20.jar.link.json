@@ -1,0 +1,10 @@
+{
+  "id": "com.teamresourceful:resourcefulconfig:1.0.20@jar",
+  "name": "Resourcefulconfig",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 133629,
+    "url": "https://edge.forgecdn.net/files/4444/198/resourcefulconfig-forge-1.19.2-1.0.20.jar",
+    "MD5": "ad468a8664448a52cc49e52b34208dd0"
+  }
+}

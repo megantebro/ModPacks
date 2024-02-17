@@ -1,0 +1,10 @@
+{
+  "id": "earth.terrarium:ad_astra:1.12.7@jar",
+  "name": "Ad Astra",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 10492498,
+    "url": "https://edge.forgecdn.net/files/4643/668/ad_astra-forge-1.19.2-1.12.7.jar",
+    "MD5": "ea1264083a4d91a8dba87e057c952d4f"
+  }
+}

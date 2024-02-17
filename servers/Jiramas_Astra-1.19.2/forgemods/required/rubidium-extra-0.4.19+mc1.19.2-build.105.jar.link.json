@@ -1,0 +1,10 @@
+{
+  "id": "me.flashyreese.mods.sodiumextra:rubidium_extra:0.4.19+mc1.19.2-build.105@jar",
+  "name": "Rubidium Extra",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 317160,
+    "url": "https://edge.forgecdn.net/files/4768/249/rubidium-extra-0.4.19+mc1.19.2-build.105.jar",
+    "MD5": "625cd59e097bd63998d08c418a715fdc"
+  }
+}

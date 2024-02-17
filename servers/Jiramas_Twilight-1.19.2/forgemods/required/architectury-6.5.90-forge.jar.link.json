@@ -1,0 +1,10 @@
+{
+  "id": "dev.architectury:architectury:6.5.90@jar",
+  "name": "Architectury",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 555905,
+    "url": "https://edge.forgecdn.net/files/5084/406/architectury-6.5.90-forge.jar",
+    "MD5": "c153e75d7f0a5ccf0aa85be37fee8440"
+  }
+}

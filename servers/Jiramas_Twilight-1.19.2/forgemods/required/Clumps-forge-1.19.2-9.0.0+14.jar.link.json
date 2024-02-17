@@ -1,0 +1,10 @@
+{
+  "id": "com.blamejared:clumps:9.0.0+14@jar",
+  "name": "Clumps",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 19083,
+    "url": "https://edge.forgecdn.net/files/4153/347/Clumps-forge-1.19.2-9.0.0+14.jar",
+    "MD5": "bdf6d74aadb9d5e5b0167a40ad0ad90d"
+  }
+}

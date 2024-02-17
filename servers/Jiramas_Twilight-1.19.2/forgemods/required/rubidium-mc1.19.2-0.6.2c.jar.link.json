@@ -1,0 +1,10 @@
+{
+  "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.2c@jar",
+  "name": "Rubidium",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1407451,
+    "url": "https://edge.forgecdn.net/files/4763/255/rubidium-mc1.19.2-0.6.2c.jar",
+    "MD5": "b9d54d5171598463ef4456083eeb3ce8"
+  }
+}

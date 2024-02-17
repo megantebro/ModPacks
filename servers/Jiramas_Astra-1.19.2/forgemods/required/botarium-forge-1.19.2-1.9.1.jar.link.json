@@ -1,0 +1,10 @@
+{
+  "id": "earth.terrarium:botarium:1.9.1@jar",
+  "name": "Botarium",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 271751,
+    "url": "https://edge.forgecdn.net/files/5050/538/botarium-forge-1.19.2-1.9.1.jar",
+    "MD5": "c66ae32029607a6d966e0cc80abd84d5"
+  }
+}
