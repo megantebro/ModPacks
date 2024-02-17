@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:inventoryessentials:8.2.1@jar",
+  "name": "Inventory Essentials",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 135505,
+    "url": "https://edge.forgecdn.net/files/4752/151/inventoryessentials-forge-1.20.1-8.2.1.jar",
+    "MD5": "7d3f6fd1553e9e70bb427f72a8dd4675"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ironfurnaces:ironfurnaces:4.1.4@jar",
+  "name": "Iron Furnaces",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 607240,
+    "url": "https://edge.forgecdn.net/files/5109/554/ironfurnaces-1.20.1-4.1.4.jar",
+    "MD5": "0cb20978cc32060e86e346c8a0619e7d"
+  }
+}

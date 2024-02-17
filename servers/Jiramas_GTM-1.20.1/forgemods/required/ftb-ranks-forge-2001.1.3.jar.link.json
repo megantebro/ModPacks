@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbranks:2001.1.3@jar",
+  "name": "FTB Ranks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 85218,
+    "url": "https://edge.forgecdn.net/files/4596/742/ftb-ranks-forge-2001.1.3.jar",
+    "MD5": "3a2157d8b065b9c94229589e11632ebb"
+  }
+}

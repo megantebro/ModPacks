@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:balm:7.2.1@jar",
+  "name": "Balm",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 343674,
+    "url": "https://edge.forgecdn.net/files/4943/500/balm-forge-1.20.1-7.2.1.jar",
+    "MD5": "fd279851a237e9042eb9c468aedb3c2c"
+  }
+}

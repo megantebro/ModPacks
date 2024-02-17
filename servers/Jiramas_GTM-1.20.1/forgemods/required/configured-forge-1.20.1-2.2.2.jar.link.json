@@ -1,0 +1,10 @@
+{
+  "id": "com.mrcrayfish:configured:2.2.2@jar",
+  "name": "Configured",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 418924,
+    "url": "https://edge.forgecdn.net/files/5101/367/configured-forge-1.20.1-2.2.2.jar",
+    "MD5": "72213b4eca5717b1beeaffd13ee108aa"
+  }
+}

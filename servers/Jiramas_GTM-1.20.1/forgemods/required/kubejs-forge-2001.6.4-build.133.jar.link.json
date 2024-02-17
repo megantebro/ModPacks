@@ -1,0 +1,10 @@
+{
+  "id": "dev.latvian.mods:kubejs:2001.6.4-build.133@jar",
+  "name": "KubeJS",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1644196,
+    "url": "https://edge.forgecdn.net/files/5085/508/kubejs-forge-2001.6.4-build.133.jar",
+    "MD5": "75b1e2b626ba9bd9752d422054404bee"
+  }
+}

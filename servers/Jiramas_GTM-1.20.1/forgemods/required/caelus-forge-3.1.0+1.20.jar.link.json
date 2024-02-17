@@ -1,0 +1,10 @@
+{
+  "id": "top.theillusivec4:caelus:3.1.0+1.20@jar",
+  "name": "Caelus API",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 38169,
+    "url": "https://edge.forgecdn.net/files/4581/481/caelus-forge-3.1.0+1.20.jar",
+    "MD5": "34529f4aa9003214c31368bfb51ae1ac"
+  }
+}
