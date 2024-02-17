@@ -2,14 +2,14 @@
   "$schema": "file:///C:/git/ModPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Jiramas_Twilight (Minecraft 1.19.2)",
-    "description": "Jiramas_Twilight Running Minecraft 1.19.2 (Forge v43.3.0)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "name": "じらます黄昏 (Minecraft 1.19.2)",
+    "description": "じらます黄昏 Minecraft 1.19.2",
+    "icon": "",
+    "address": "",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+			"shortId": "Minecraft",
+			"largeImageText": "Minecraft",
+			"largeImageKey": "pack_kpw"
     },
     "mainServer": false,
     "autoconnect": false
