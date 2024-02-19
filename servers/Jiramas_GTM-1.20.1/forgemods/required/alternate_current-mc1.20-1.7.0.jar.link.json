@@ -1,0 +1,10 @@
+{
+  "id": "alternate.current:alternate_current:1.7.0@jar",
+  "name": "Alternate Current",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 36703,
+    "url": "https://edge.forgecdn.net/files/4721/662/alternate_current-mc1.20-1.7.0.jar",
+    "MD5": "43d4d8efddfa77a80aa7b1ae1a04ab48"
+  }
+}

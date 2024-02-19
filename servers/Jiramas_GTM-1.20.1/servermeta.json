@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/git/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "じらます工業G (Minecraft 1.20.1)",
+    "description": "Jiramas_GTM 工業に特化した高難易度ながら遊びやすさを確保した Minecraft 1.20.1",
+    "icon": "",
+    "address": "",
+    "discord": {
+			"shortId": "Minecraft",
+			"largeImageText": "Minecraft",
+			"largeImageKey": "pack_kpw"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.2.0"
+  },
+  "untrackedFiles": []
+}

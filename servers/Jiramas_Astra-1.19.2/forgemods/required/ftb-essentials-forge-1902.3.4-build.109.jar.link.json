@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbessentials:1902.3.4-build.109@jar",
+  "name": "FTB Essentials",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 103200,
+    "url": "https://edge.forgecdn.net/files/4778/940/ftb-essentials-forge-1902.3.4-build.109.jar",
+    "MD5": "897eabed07aa9d1ebdb0b655f97403fc"
+  }
+}

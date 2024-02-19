@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbteams:1902.2.14-build.123@jar",
+  "name": "FTB Teams",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 220052,
+    "url": "https://edge.forgecdn.net/files/4611/938/ftb-teams-forge-1902.2.14-build.123.jar",
+    "MD5": "ce64d31414b490c35accc53c1c506c52"
+  }
+}

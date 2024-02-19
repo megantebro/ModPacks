@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbultimine:1902.4.1-build.90@jar",
+  "name": "FTB Ultimine",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 96232,
+    "url": "https://edge.forgecdn.net/files/4598/468/ftb-ultimine-forge-1902.4.1-build.90.jar",
+    "MD5": "6bbd2c26295f2b49b1d97ee8d6f9cfbc"
+  }
+}

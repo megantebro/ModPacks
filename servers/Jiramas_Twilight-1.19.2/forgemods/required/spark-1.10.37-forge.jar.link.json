@@ -1,0 +1,10 @@
+{
+  "id": "me.lucko:spark:1.10.37@jar",
+  "name": "Spark",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2976410,
+    "url": "https://edge.forgecdn.net/files/4505/309/spark-1.10.37-forge.jar",
+    "MD5": "571b1510bd5f6d37f7fbfd2bede7f46f"
+  }
+}

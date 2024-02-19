@@ -1,0 +1,10 @@
+{
+  "id": "com.illusivesoulworks:elytraslot:6.3.0+1.20.1@jar",
+  "name": "Elytra Slot",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 56985,
+    "url": "https://edge.forgecdn.net/files/4598/379/elytraslot-forge-6.3.0+1.20.1.jar",
+    "MD5": "3ab79b2737d6da307bdfc2c9891ceb98"
+  }
+}

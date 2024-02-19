@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/git/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "じらます宇宙 (Minecraft 1.19.2)",
+    "description": "じらます宇宙 Minecraft 1.19.2",
+    "icon": "",
+    "address": "",
+    "discord": {
+			"shortId": "Minecraft",
+			"largeImageText": "Minecraft",
+			"largeImageKey": "pack_kpw"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "43.3.0"
+  },
+  "untrackedFiles": []
+}

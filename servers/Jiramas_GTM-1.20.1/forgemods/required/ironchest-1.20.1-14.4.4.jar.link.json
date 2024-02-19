@@ -1,0 +1,10 @@
+{
+  "id": "com.progwml6:ironchest:1.20.1-14.4.4@jar",
+  "name": "Iron Chests",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 311290,
+    "url": "https://edge.forgecdn.net/files/4614/852/ironchest-1.20.1-14.4.4.jar",
+    "MD5": "078fbc43b289995ca4a8cced59bbf0ef"
+  }
+}

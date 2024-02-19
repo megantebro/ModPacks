@@ -1,0 +1,10 @@
+{
+  "id": "de.cheaterpaul:fallingleaves:2.0.0-alpha+20221129-2000@jar",
+  "name": "Falling Leaves",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 128005,
+    "url": "https://edge.forgecdn.net/files/4124/35/Fallingleaves-1.19.1-2.0.0-alpha+20221129-2000.jar",
+    "MD5": "19f4d9b80e0ce0af311c94eb2a782c1d"
+  }
+}

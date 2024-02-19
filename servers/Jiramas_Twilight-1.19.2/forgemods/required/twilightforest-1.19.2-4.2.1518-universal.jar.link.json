@@ -1,0 +1,10 @@
+{
+  "id": "twilightforest:twilightforest:4.2.1518@jar",
+  "name": "The Twilight Forest",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 23563760,
+    "url": "https://edge.forgecdn.net/files/4389/567/twilightforest-1.19.2-4.2.1518-universal.jar",
+    "MD5": "94c6a36684a34cbd8e5b468978682164"
+  }
+}
