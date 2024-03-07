@@ -1,0 +1,10 @@
+{
+  "id": "journeymap:journeymap:1.12.2-5.7.1p2@jar",
+  "name": "JourneyMap",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 6536118,
+    "url": "https://edge.forgecdn.net/files/5157/846/journeymap-1.12.2-5.7.1p2.jar",
+    "MD5": "df46c93c0800a552c3d8fc7c9ddfad54"
+  }
+}

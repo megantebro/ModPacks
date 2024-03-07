@@ -1,0 +1,10 @@
+{
+  "id": "com.crankysupetoon:mekanismfluxified:1.0.0@jar",
+  "name": "Mekanism Fluxified",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 563240,
+    "url": "https://edge.forgecdn.net/files/3003/367/mekanismfluxified-1.12.2-1.0.0.jar",
+    "MD5": "9afcd4740538d74784fd189ec09495ff"
+  }
+}
