@@ -1,0 +1,10 @@
+{
+  "id": "com.tiviacz:travelersbackpack:1.0.35@jar",
+  "name": "Traveler's Backpack",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 397467,
+    "url": "https://edge.forgecdn.net/files/3150/850/TravelersBackpack-1.12.2-1.0.35.jar",
+    "MD5": "ec9e10a72424dc0d0fd73e5af8d6544d"
+  }
+}

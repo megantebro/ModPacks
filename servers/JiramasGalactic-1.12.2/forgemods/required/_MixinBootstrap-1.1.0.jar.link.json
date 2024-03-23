@@ -1,0 +1,10 @@
+{
+  "id": "org.spongepowered.asm.launch:_mixinbootstrap:1.1.0@jar",
+  "name": "_MixinBootstrap",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1119478,
+    "url": "https://edge.forgecdn.net/files/3437/402/_MixinBootstrap-1.1.0.jar",
+    "MD5": "9df0dc628ebcd787270f487fbbf8157a"
+  }
+}

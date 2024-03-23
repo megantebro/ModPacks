@@ -1,0 +1,10 @@
+{
+  "id": "bl4ckscor3.mod:particleculling:1.12.2-v1.4.1@jar",
+  "name": "Particle Culling",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 16945,
+    "url": "https://edge.forgecdn.net/files/4439/1/particleculling-1.12.2-v1.4.1.jar",
+    "MD5": "d606e00d3cdef231b46d443725e65471"
+  }
+}

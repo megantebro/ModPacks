@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:surge:2.0.79@jar",
+  "name": "Surge",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 957330,
+    "url": "https://edge.forgecdn.net/files/2916/357/Surge-1.12.2-2.0.79.jar",
+    "MD5": "9f495709f961117c7823827ca10df0c8"
+  }
+}

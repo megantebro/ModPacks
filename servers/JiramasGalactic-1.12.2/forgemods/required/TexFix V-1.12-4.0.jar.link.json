@@ -1,0 +1,10 @@
+{
+  "id": "texfix:texfix:4.0@jar",
+  "name": "TextureFix",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 7052,
+    "url": "https://edge.forgecdn.net/files/2518/68/TexFix V-1.12-4.0.jar",
+    "MD5": "241a28a767464fa15f9bd642c2d9f673"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "shadows.fastbench:fastbench:1.12.2-1.7.4@jar",
+  "name": "FastWorkbench",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 26635,
+    "url": "https://edge.forgecdn.net/files/4030/366/FastWorkbench-1.12.2-1.7.4.jar",
+    "MD5": "06eb9174804717d1f8f42366fe6002d4"
+  }
+}
