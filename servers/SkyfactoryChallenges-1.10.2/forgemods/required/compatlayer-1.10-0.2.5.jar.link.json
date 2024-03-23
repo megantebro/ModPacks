@@ -1,0 +1,10 @@
+{
+  "id": "generated.forgemod:compatlayer:1.10-0.2.5@jar",
+  "name": "Compatlayer",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 39578,
+    "url": "https://edge.forgecdn.net/files/2395/312/compatlayer-1.10-0.2.5.jar",
+    "MD5": "0bd34d539281311396eeacf9708ac21f"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "net.shadowfacts:shadowmc:1.10.2-3.6.1@jar",
+  "name": "ShadowMC",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 504115,
+    "url": "https://edge.forgecdn.net/files/2362/16/ShadowMC-1.10.2-3.6.1.jar",
+    "MD5": "8d6dcf39d09ca712e02a3faf602ae96d"
+  }
+}

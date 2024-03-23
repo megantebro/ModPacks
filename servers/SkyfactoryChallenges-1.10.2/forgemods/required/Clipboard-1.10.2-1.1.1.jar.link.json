@@ -1,0 +1,10 @@
+{
+  "id": "net.shadowfacts:clipboard:1.10.2-1.1.1@jar",
+  "name": "Clipboard",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 78169,
+    "url": "https://edge.forgecdn.net/files/2357/558/Clipboard-1.10.2-1.1.1.jar",
+    "MD5": "aab5d80ed9ba02474f7e9d3db59f3115"
+  }
+}

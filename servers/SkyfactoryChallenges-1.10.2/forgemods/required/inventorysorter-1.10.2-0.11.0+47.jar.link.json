@@ -1,0 +1,10 @@
+{
+  "id": "cpw.mods:inventorysorter:1.10.2-0.11.0+47@jar",
+  "name": "Inventory Sorter",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 36118,
+    "url": "https://edge.forgecdn.net/files/2400/85/inventorysorter-1.10.2-0.11.0+47.jar",
+    "MD5": "ed0063f7fe9690f03341533a8df1bfa6"
+  }
+}

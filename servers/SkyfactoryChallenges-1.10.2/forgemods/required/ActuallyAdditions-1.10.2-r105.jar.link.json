@@ -1,0 +1,10 @@
+{
+  "id": "de.ellpeck.actuallyadditions.mod:actuallyadditions:1.10.2-r105@jar",
+  "name": "Actually Additions",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2478660,
+    "url": "https://edge.forgecdn.net/files/2392/124/ActuallyAdditions-1.10.2-r105.jar",
+    "MD5": "03ffefcfd9cabdb1faa3efbb57e60a27"
+  }
+}

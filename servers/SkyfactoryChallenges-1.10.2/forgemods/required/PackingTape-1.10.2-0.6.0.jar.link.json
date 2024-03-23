@@ -1,0 +1,10 @@
+{
+  "id": "gigaherz.packingtape:packingtape:0.6.0@jar",
+  "name": "Packing Tape",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 23367,
+    "url": "https://edge.forgecdn.net/files/2322/826/PackingTape-1.10.2-0.6.0.jar",
+    "MD5": "23617bff3aa9cf4a938d9821dd964aea"
+  }
+}

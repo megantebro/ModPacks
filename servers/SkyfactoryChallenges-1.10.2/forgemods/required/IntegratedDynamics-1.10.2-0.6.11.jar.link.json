@@ -1,0 +1,10 @@
+{
+  "id": "org.cyclops:integrateddynamics:1.10.2-0.6.11@jar",
+  "name": "Integrated Dynamics",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2744436,
+    "url": "https://edge.forgecdn.net/files/2396/699/IntegratedDynamics-1.10.2-0.6.11.jar",
+    "MD5": "35878d8d0fa75f7981ee35c33bc703d4"
+  }
+}

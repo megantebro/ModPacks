@@ -1,0 +1,10 @@
+{
+  "id": "vazkii.blockdispenser:BlockDispenser:1.0@jar",
+  "name": "BlockDispenser",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 5062,
+    "url": "https://edge.forgecdn.net/files/2325/737/BlockDispenser-1.0-1.jar",
+    "MD5": "239dd7d83a8ed2077312309839f210fd"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "slimeknights.toolleveling:tinkertoolleveling:1.10.2-1.0.1@jar",
+  "name": "Tinkers Tool Leveling",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 91362,
+    "url": "https://edge.forgecdn.net/files/2338/790/TinkerToolLeveling-1.10.2-1.0.1.jar",
+    "MD5": "9e8b66e96c864787e52f36cc9c172490"
+  }
+}

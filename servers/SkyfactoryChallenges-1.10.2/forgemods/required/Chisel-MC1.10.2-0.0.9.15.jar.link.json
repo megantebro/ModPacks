@@ -1,0 +1,10 @@
+{
+  "id": "team.chisel:chisel:MC1.10.2-0.0.9.15@jar",
+  "name": "Chisel",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 7542687,
+    "url": "https://edge.forgecdn.net/files/2398/15/Chisel-MC1.10.2-0.0.9.15.jar",
+    "MD5": "94dcc919093549aa209c1117c8fa2d3d"
+  }
+}

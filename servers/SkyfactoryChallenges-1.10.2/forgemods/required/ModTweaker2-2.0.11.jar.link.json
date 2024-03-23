@@ -1,0 +1,10 @@
+{
+  "id": "modtweaker:modtweaker:2.0.11@jar",
+  "name": "Mod Tweaker",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 259390,
+    "url": "https://edge.forgecdn.net/files/2396/271/ModTweaker2-2.0.11.jar",
+    "MD5": "67bf9992fa24bac3def43984e1078a68"
+  }
+}

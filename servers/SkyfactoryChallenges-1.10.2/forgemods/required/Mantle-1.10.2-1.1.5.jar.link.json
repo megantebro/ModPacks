@@ -1,0 +1,10 @@
+{
+  "id": "slimeknights.mantle:mantle:1.1.5@jar",
+  "name": "Mantle",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 851810,
+    "url": "https://edge.forgecdn.net/files/2380/279/Mantle-1.10.2-1.1.5.jar",
+    "MD5": "566a2ef221df5cfddc7af63f222cfba9"
+  }
+}

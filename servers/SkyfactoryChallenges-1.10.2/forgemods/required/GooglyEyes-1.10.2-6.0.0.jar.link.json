@@ -1,0 +1,10 @@
+{
+  "id": "me.ichun.mods:googlyeyes:1.10.2-6.0.0@jar",
+  "name": "GooglyEyes",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 54056,
+    "url": "https://edge.forgecdn.net/files/2336/496/GooglyEyes-1.10.2-6.0.0.jar",
+    "MD5": "cd0a08683cdf5448ef6860389be1a399"
+  }
+}

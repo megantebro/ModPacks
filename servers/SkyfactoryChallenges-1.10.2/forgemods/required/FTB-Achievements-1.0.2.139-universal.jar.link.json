@@ -1,0 +1,10 @@
+{
+  "id": "me.modmuss50.ftba:ftbachievements:1.0.2.139@jar",
+  "name": "FTB Achievements",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 244911,
+    "url": "https://edge.forgecdn.net/files/2400/424/FTB-Achievements-1.0.2.139-universal.jar",
+    "MD5": "bd05f48fe7adfce02866f48eac067ae8"
+  }
+}

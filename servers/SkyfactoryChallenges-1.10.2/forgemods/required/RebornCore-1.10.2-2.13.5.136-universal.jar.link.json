@@ -1,0 +1,10 @@
+{
+  "id": "reborncore:reborncore:2.8.2.69@jar",
+  "name": "RebornCore",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1385966,
+    "url": "https://edge.forgecdn.net/files/2393/944/RebornCore-1.10.2-2.13.5.136-universal.jar",
+    "MD5": "dbc6a04333cd3e1a8fe8d6970249632d"
+  }
+}

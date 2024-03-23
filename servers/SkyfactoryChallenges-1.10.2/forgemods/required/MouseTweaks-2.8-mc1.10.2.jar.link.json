@@ -1,0 +1,10 @@
+{
+  "id": "yalter.mousetweaks:mousetweaks:2.8@jar",
+  "name": "Mouse Tweaks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 62967,
+    "url": "https://edge.forgecdn.net/files/2388/574/MouseTweaks-2.8-mc1.10.2.jar",
+    "MD5": "3091db9b88a860786f8f637740996919"
+  }
+}

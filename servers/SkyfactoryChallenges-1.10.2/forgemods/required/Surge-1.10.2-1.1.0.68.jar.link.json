@@ -1,0 +1,10 @@
+{
+  "id": "org.epoxide:Surge:1.10.2-1.1.0.68@jar",
+  "name": "Surge",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 104819,
+    "url": "https://edge.forgecdn.net/files/2383/220/Surge-1.10.2-1.1.0.68.jar",
+    "MD5": "209914749a6a488d30055a8965de766b"
+  }
+}

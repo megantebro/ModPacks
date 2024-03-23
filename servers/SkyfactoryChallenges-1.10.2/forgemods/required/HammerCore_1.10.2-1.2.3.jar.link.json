@@ -1,0 +1,10 @@
+{
+  "id": "com.mrdimka:hammercore:1.2.3@jar",
+  "name": "Hammer Core",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 258059,
+    "url": "https://edge.forgecdn.net/files/2364/163/HammerCore_1.10.2-1.2.3.jar",
+    "MD5": "0c5fa036770ca6ad71d3ba40dd02c61e"
+  }
+}

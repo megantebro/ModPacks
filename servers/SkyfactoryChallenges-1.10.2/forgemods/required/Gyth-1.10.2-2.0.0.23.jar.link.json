@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:gyth:2.0.0.2@jar",
+  "name": "Get Ya' Tanks Here",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 45938,
+    "url": "https://edge.forgecdn.net/files/2384/32/Gyth-1.10.2-2.0.0.23.jar",
+    "MD5": "5522e66977afc1064bb434dd38d93ab4"
+  }
+}

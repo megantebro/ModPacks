@@ -1,0 +1,10 @@
+{
+  "id": "codechicken.translocator:Translocator:1.10.2-2.1.4.54-universal@jar",
+  "name": "Translocators",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 185925,
+    "url": "https://edge.forgecdn.net/files/2400/105/Translocators-1.10.2-2.1.4.54-universal.jar",
+    "MD5": "0e75a11986b1cf53d35b1f6a614e5451"
+  }
+}
