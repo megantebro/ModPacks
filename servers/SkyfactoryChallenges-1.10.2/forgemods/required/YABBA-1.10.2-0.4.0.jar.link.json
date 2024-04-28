@@ -1,0 +1,10 @@
+{
+  "id": "com.latmod:yabba:1.10.2-0.3.0@jar",
+  "name": "YABBA",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 168607,
+    "url": "https://edge.forgecdn.net/files/2387/42/YABBA-1.10.2-0.4.0.jar",
+    "MD5": "ecddbe3d1268b6c0afdc278f986af896"
+  }
+}

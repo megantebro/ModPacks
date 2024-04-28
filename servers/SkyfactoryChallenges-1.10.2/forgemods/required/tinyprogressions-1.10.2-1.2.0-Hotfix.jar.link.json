@@ -1,0 +1,10 @@
+{
+  "id": "com.kashdeya.tinyprogressions.main:tp:1.10.2-1.2.0-Hotfix@jar",
+  "name": "Tiny Progressions",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 365412,
+    "url": "https://edge.forgecdn.net/files/2398/162/tinyprogressions-1.10.2-1.2.0-Hotfix.jar",
+    "MD5": "8468f0cf73ae0e5c63478d52768851bf"
+  }
+}

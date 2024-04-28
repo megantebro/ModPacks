@@ -1,0 +1,10 @@
+{
+  "id": "com.feed_the_beast:ftbl:1.10.2-3.4.5@jar",
+  "name": "FTBLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 696064,
+    "url": "https://edge.forgecdn.net/files/2397/480/FTBLib-1.10.2-3.4.5.jar",
+    "MD5": "c0782c018d19e04f97986793db0e4ea3"
+  }
+}

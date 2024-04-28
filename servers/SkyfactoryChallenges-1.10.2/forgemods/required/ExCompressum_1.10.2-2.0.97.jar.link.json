@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:excompressum:2.0.97@jar",
+  "name": "Ex Compressum",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 472826,
+    "url": "https://edge.forgecdn.net/files/2394/546/ExCompressum_1.10.2-2.0.97.jar",
+    "MD5": "f427b64b62aa4f7358f20eff97ead602"
+  }
+}

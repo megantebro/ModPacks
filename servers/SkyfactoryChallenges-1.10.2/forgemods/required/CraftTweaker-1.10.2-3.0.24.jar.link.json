@@ -1,0 +1,10 @@
+{
+  "id": "com.blamejared:MineTweaker3:1.10.2-3.0.24@jar",
+  "name": "MineTweaker 3",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 867551,
+    "url": "https://edge.forgecdn.net/files/2392/420/CraftTweaker-1.10.2-3.0.24.jar",
+    "MD5": "bcaef2617335e911968c6378a425d892"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "it.zerono.mods:zerocore:1.10.2-0.1.0.4@jar",
+  "name": "Zero CORE",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 161808,
+    "url": "https://edge.forgecdn.net/files/2385/483/zerocore-1.10.2-0.1.0.4.jar",
+    "MD5": "279c300ccc1f931611e9602c3e46231f"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sonar.flux:FluxNetworks:1.10.2-1.1.8@jar",
+  "name": "Flux Networks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 310494,
+    "url": "https://edge.forgecdn.net/files/2394/289/FluxNetworks-1.10.2-1.1.8.jar",
+    "MD5": "cbb160f0f9e1a40d56df077da56780fe"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "kiwifails.minicoal:minicoal:1.1.0@jar",
+  "name": "MiniCoal",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 15405,
+    "url": "https://edge.forgecdn.net/files/2339/399/minicoal-1.1.0.jar",
+    "MD5": "b9bfa0b19d0036c06d6ef161f86cfb68"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "net.bdew.generators:advgenerators:0.9.20.23@jar",
+  "name": "Advanced Generators",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1707769,
+    "url": "https://edge.forgecdn.net/files/2392/608/generators-0.9.20.23-mc1.10.2.jar",
+    "MD5": "1cd7c92b5854a260ccea134ee108fe0c"
+  }
+}

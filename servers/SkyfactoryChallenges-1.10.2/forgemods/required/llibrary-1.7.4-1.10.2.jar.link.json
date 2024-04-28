@@ -1,0 +1,10 @@
+{
+  "id": "net.ilexiconn:llibrary:1.7.4-1.10.2@jar",
+  "name": "LLibrary",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1066562,
+    "url": "https://edge.forgecdn.net/files/2370/377/llibrary-1.7.4-1.10.2.jar",
+    "MD5": "f7e866dd053a6743087ee41d3d6cfa25"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "net.shadowfacts.funnels:Funnels:1.10.2-1.1.2@jar",
+  "name": "Funnels",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 17496,
+    "url": "https://edge.forgecdn.net/files/2354/553/Funnels-1.10.2-1.1.2.jar",
+    "MD5": "6f359dc1f7f2634890208b2cdf3ea061"
+  }
+}

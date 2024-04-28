@@ -1,0 +1,10 @@
+{
+  "id": "com.blamejared:mtlib:1.0.2@jar",
+  "name": "MTLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 32938,
+    "url": "https://edge.forgecdn.net/files/2396/269/MTLib-1.0.2.jar",
+    "MD5": "1b741991d3a94696f4c649218f353f54"
+  }
+}

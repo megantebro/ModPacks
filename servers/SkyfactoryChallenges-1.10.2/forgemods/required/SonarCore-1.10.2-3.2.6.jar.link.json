@@ -1,0 +1,10 @@
+{
+  "id": "sonar.core:sonarcore:1.10.2-3.2.6@jar",
+  "name": "SonarCore",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1136702,
+    "url": "https://edge.forgecdn.net/files/2394/288/SonarCore-1.10.2-3.2.6.jar",
+    "MD5": "7f76b0719a2ebf1632f7b29044b376cf"
+  }
+}

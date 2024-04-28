@@ -1,0 +1,10 @@
+{
+  "id": "com.builtbroken:woodenshears:WoodenShears-1.10.2-0.0.1b2-universal@jar",
+  "name": "Wooden Shears",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 7241,
+    "url": "https://edge.forgecdn.net/files/2329/650/SBM-WoodenShears-1.10.2-0.0.1b2-universal.jar",
+    "MD5": "6afd8d04fd5ec6874ee2839dcb642a14"
+  }
+}

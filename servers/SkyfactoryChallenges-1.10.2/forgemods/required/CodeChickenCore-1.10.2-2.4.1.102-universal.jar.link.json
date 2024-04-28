@@ -1,0 +1,10 @@
+{
+  "id": "codechicken.core.launch:CodeChickenCore:2.4.1.102@jar",
+  "name": "CodeChicken Core",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 105689,
+    "url": "https://edge.forgecdn.net/files/2400/103/CodeChickenCore-1.10.2-2.4.1.102-universal.jar",
+    "MD5": "1b694610f79739a3dfe5028b37df72f1"
+  }
+}

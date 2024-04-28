@@ -1,0 +1,10 @@
+{
+  "id": "engineers.workshop:engineersworkshop:1.2.1-1.10.2@jar",
+  "name": "Engineer's Workshop",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 319831,
+    "url": "https://edge.forgecdn.net/files/2395/564/EngineersWorkshop-1.2.1-1.10.2.jar",
+    "MD5": "04795482001c6cfb03c8928f572d9325"
+  }
+}

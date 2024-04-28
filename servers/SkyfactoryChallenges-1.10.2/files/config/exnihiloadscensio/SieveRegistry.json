@@ -1,0 +1,542 @@
+{
+  "minecraft:dirt:0": [
+    {
+      "drop": {
+        "name": "mysticalagriculture:nether_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "harvestcraft:onionseedItem",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+	{
+      "drop": {
+        "name": "mysticalagriculture:knightslime_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:dye_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:fire_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:ice_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:water_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:wood_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:nature_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:dirt_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:tier5_inferium_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:stone_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    }
+  ],
+  "extrautils2:compresseddirt": [
+    {
+      "drop": {
+        "name": "mysticalagriculture:pig_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:chicken_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:cow_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:sheep_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:rabbit_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "exnihiloadscensio:itemSeedPotato",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "exnihiloadscensio:itemSeedCarrot",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    }
+  ],
+  "minecraft:gravel": [
+    {
+      "drop": {
+        "name": "mysticalagriculture:iron_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:steel_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:electrum_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:pulsating_iron_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:electrical_steel_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:yellorium_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:aluminum_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:copper_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:silver_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:lead_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:nickel_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:gold_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+	{
+      "drop": {
+        "name": "actuallyadditions:itemDust",
+        "meta": 7
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    }	
+  ],
+  "extrautils2:compressedgravel": [
+    {
+      "drop": {
+        "name": "mysticalagriculture:ardite_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:cobalt_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:manyullyn_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:conductive_iron_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:soularium_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:dark_steel_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:energetic_alloy_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:vibrant_alloy_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:mystical_flower_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    }, 
+    {
+      "drop": {
+        "name": "mysticalagriculture:manasteel_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:terrasteel_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:draconium_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:nether_quartz_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },  
+    {
+      "drop": {
+        "name": "mysticalagriculture:constantan_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    } 
+],
+  "minecraft:sand": [
+    {
+      "drop": {
+        "name": "mysticalagriculture:redstone_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:glowstone_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:emerald_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:diamond_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:experience_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:lapis_lazuli_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:obsidian_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:nether_quartz_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:coal_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+	{
+      "drop": {
+        "name": "mysticalagriculture:prosperity_shard",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+     } 
+],
+  "extrautils2:compressedsand": [
+    {
+      "drop": {
+        "name": "mysticalagriculture:zombie_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:slime_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:skeleton_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:creeper_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:spider_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:guardian_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:blaze_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:ghast_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:enderman_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:wither_skeleton_seeds",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 1
+    }
+  ]
+}

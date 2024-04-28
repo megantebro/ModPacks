@@ -1,0 +1,10 @@
+{
+  "id": "org.mcupdater:autopackager:1.6.3@jar",
+  "name": "AutoPackager",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 29424,
+    "url": "https://edge.forgecdn.net/files/2306/1/autopackager-1.6.3.jar",
+    "MD5": "1ab2500660c6876993cac9759d9dc4e3"
+  }
+}

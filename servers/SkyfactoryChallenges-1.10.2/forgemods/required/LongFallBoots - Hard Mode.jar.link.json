@@ -1,0 +1,10 @@
+{
+  "id": "com.nanoheart.longfallboots:boots:1.0@jar",
+  "name": "Long Fall Boots",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 11989,
+    "url": "https://edge.forgecdn.net/files/2353/142/LongFallBoots - Hard Mode.jar",
+    "MD5": "9dd72779ee5b3c607ad2e2e5dd3d5928"
+  }
+}

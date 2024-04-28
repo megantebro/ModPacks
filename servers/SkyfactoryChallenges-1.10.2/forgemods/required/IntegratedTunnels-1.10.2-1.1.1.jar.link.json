@@ -1,0 +1,10 @@
+{
+  "id": "org.cyclops:integratedtunnels:1.10.2-1.1.1@jar",
+  "name": "Integrated Tunnels",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 254890,
+    "url": "https://edge.forgecdn.net/files/2396/695/IntegratedTunnels-1.10.2-1.1.1.jar",
+    "MD5": "9bc90d59452bb67c9f72debfc9bf870c"
+  }
+}

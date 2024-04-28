@@ -1,0 +1,10 @@
+{
+  "id": "gory_moon.moarsigns:moarsigns:4.2.2.8@jar",
+  "name": "MoarSigns",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1754399,
+    "url": "https://edge.forgecdn.net/files/2368/914/MoarSigns-1.10.2-4.2.2.8.jar",
+    "MD5": "0a3f6ffe369faff43d70a329be554294"
+  }
+}

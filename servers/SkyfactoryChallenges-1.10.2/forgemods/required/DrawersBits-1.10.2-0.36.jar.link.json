@@ -1,0 +1,10 @@
+{
+  "id": "mods.belgabor:bitdrawers:1.10.2-0.36@jar",
+  "name": "Drawers & Bits",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 81823,
+    "url": "https://edge.forgecdn.net/files/2391/211/DrawersBits-1.10.2-0.36.jar",
+    "MD5": "69746cbe7de76f1d4098dd43d7d851c0"
+  }
+}

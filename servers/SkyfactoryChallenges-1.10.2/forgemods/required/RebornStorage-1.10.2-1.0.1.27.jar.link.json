@@ -1,0 +1,10 @@
+{
+  "id": "rebornstorage:rebornstorage:1.0.1.27@jar",
+  "name": "RebornStorage",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 54139,
+    "url": "https://edge.forgecdn.net/files/2373/669/RebornStorage-1.10.2-1.0.1.27.jar",
+    "MD5": "e77594bc88d91e43e4b49e8bc2271d35"
+  }
+}

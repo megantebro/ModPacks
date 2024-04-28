@@ -1,0 +1,10 @@
+{
+  "id": "mcjty.rftools:rftools:1.1x-5.90@jar",
+  "name": "RFTools",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2944851,
+    "url": "https://edge.forgecdn.net/files/2395/639/rftools-1.1x-5.90.jar",
+    "MD5": "74a3ccb0f9924dcac854c5fe58650c6a"
+  }
+}

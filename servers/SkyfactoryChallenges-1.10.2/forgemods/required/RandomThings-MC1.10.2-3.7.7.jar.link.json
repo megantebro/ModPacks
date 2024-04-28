@@ -1,0 +1,10 @@
+{
+  "id": "lumien.randomthings:randomthings:3.7.7@jar",
+  "name": "Random Things",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1695812,
+    "url": "https://edge.forgecdn.net/files/2346/174/RandomThings-MC1.10.2-3.7.7.jar",
+    "MD5": "50269a2745d607129cbbba0189d38b07"
+  }
+}

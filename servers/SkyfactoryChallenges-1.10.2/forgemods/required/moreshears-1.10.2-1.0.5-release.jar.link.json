@@ -1,0 +1,10 @@
+{
+  "id": "com.kashdeya.moreshears.main:moreshears:1.0.2@jar",
+  "name": "More Shears",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 189319,
+    "url": "https://edge.forgecdn.net/files/2385/75/moreshears-1.10.2-1.0.5-release.jar",
+    "MD5": "85cb1c370410abeec74d66a5623417d6"
+  }
+}

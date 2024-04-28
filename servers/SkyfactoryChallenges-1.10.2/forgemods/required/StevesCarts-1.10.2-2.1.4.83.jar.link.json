@@ -1,0 +1,10 @@
+{
+  "id": "vswe.stevescarts:stevescarts:2.1.4.83@jar",
+  "name": "Steve's Carts 2",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2171450,
+    "url": "https://edge.forgecdn.net/files/2381/152/StevesCarts-1.10.2-2.1.4.83.jar",
+    "MD5": "6f74aaa2a7ee53dd319c49a3916b0e58"
+  }
+}

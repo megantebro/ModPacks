@@ -1,0 +1,559 @@
+{
+  "achievements": [
+    {
+      "name": "Mesh_Sieve",
+      "rewards": [
+        {
+          "name": "bloodmagic:ItemMonsterSoul",
+          "stackSize": 1
+        }
+      ],
+      "iconStack": {
+        "name": "exnihiloadscensio:itemMesh",
+        "metaValue": 1,
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Add a string mesh into a sieve. Complete the objective by sieving gravel, sand or dirt.\\\"}\"],author:\"slowpoke101\",title:\"Mesh_Sieve\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Mesh_Sieve",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Cobblegen",
+      "rewards": [
+        {
+          "name": "botania:blackLotus",
+          "metaValue": 1,
+          "stackSize": 32
+        }
+      ],
+      "iconStack": {
+        "name": "tp:emerald_cobblegen_block",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Construct the Tier 5 Cobblegen from the Tiny Progressions mod.\\\"}\"],author:\"slowpoke101\",title:\"Cobblegen\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Cobblegen",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Drawer_Controller",
+      "iconStack": {
+        "name": "storagedrawers:controller",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Build a Storage Controller from the Storage Controller Mod.\\\"}\"],author:\"slowpoke101\",title:\"DrawerController\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Drawer_Controller",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Storage_Controller",
+      "iconStack": {
+        "name": "refinedstorage:controller",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Craft a storage controller from the Refined Storage mod. Can by used to power a refined storage system.\\\"}\"],author:\"slowpoke101\",title:\"Storage_Controll\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Storage_Controller",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Collector",
+      "rewards": [
+        {
+          "name": "minecraft:nether_star",
+          "stackSize": 32
+        }
+      ],
+      "iconStack": {
+        "name": "randomthings:advancedItemCollector",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 0,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Build an Advanced Item Collector from Random Things.\\\"}\"],author:\"slowpoke101\",title:\"Collector\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Collector",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Epic_Bacon",
+      "iconStack": {
+        "name": "harvestcraft:epicbaconItem",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Use various dyes to craft up some Epic Bacon from Pams Harvestcraft.\\\"}\"],author:\"slowpoke101\",title:\"Harvestcraft\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Epic_Bacon",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Reactor_Controller",
+      "iconStack": {
+        "name": "bigreactors:reactorcontroller",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Craft a Reactor Controller from Extreme Reactors. Can be used to complete the pre-built reactor.\\\"}\"],author:\"slowpoke101\",title:\"Reactor_Controll\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Reactor_Controller",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Flux_Controller",
+      "iconStack": {
+        "name": "fluxnetworks:FluxController",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Build a Flux Controller from the Flux Networks mod.\\\"}\"],author:\"slowpoke101\",title:\"Flux_Controller\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Flux_Controller",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Jetpack",
+      "rewards": [
+        {
+          "name": "simplyjetpacks:itemJetpack",
+          "stackSize": 1,
+          "tagCompound": "{sjData:{Energy:20000}}"
+        }
+      ],
+      "iconStack": {
+        "name": "simplyjetpacks:itemJetpack",
+        "metaValue": 5,
+        "stackSize": 1,
+        "tagCompound": "{sjData:{}}"
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 0,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Construct a Vibrant Jetpack from the Simply Jetpacks Mod.\\\"}\"],author:\"slowpoke101\",title:\"Jetpack\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Jetpack",
+      "fireOnce": true,
+      "giveToAll": true
+    },
+    {
+      "name": "Furnace",
+      "iconStack": {
+        "name": "mysticalagriculture:ultimate_furnace",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 0,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Build the Ultimate Furnace from the Mystical Agriculture mod.\\\"}\"],author:\"slowpoke101\",title:\"Furnace\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Furnace",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "RF_Power",
+      "iconStack": {
+        "name": "enderio:blockCombustionGenerator",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Use the combustion generator on the red platform to produce 500000 rf\\\"}\"],author:\"slowpoke101\",title:\"RFPower\"}"
+      },
+      "chatMessage": "FTBAchievement get! : RF_Power",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Crusher",
+      "iconStack": {
+        "name": "immersiveengineering:metalDecoration1",
+        "metaValue": 1,
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 0,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Construct a Crusher from Immersive Engineering.\\\"}\"],author:\"slowpoke101\",title:\"Crusher\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Crusher",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Capacitor",
+      "iconStack": {
+        "name": "enderio:blockCapBank",
+        "metaValue": 3,
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Build a Vibrant Capacitor from Ender IO.\\\"}\"],author:\"slowpoke101\",title:\"Capacitor\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Capacitor",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Cart",
+      "iconStack": {
+        "name": "minecraft:minecart",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 0,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Construct a Cart from Steves Minecarts using the following modules. Standard Hull, Basic Woodcutter, Smelter, CoalStandard, SideChests. Place on a track to complete the objective.\\\"}\"],author:\"slowpoke101\",title:\"Cart\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Cart",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Item_Filter",
+      "iconStack": {
+        "name": "rftools:item_filter",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Build a Item Filter from RF Tools\\\"}\"],author:\"slowpoke101\",title:\"Item_Filter\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Item_Filter",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Altar",
+      "iconStack": {
+        "name": "bloodmagic:BlockAltar",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 0,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Complete a Tier 5 Blood Altar from Blood Magic.\\\"}\"],author:\"slowpoke101\",title:\"Altar\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Altar",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Void_Miner",
+      "iconStack": {
+        "name": "environmentaltech:controller_void_ore_miner_4",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Build a Tier 4 Void Ore Miner Controller and use it to complete the Void Ore Miner.\\\"}\"],author:\"slowpoke101\",title:\"Void_Miner\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Void_Miner",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Bifrost_Rod",
+      "iconStack": {
+        "name": "botania:rainbowRod",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Form the Elven Portal from Botania, use this to gather the parts to build yourself the Bifrost Rod.\\\"}\"],author:\"slowpoke101\",title:\"Bifrost_Rod\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Bifrost_Rod",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Handheld_Filler",
+      "iconStack": {
+        "name": "actuallyadditions:itemFillingWand",
+        "stackSize": 1,
+        "tagCompound": "{Energy:800000}"
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 1,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Build a Handheld Filler from the Actually Additions mod.\\\"}\"],author:\"slowpoke101\",title:\"Handheld_Filler\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Handheld_Filler",
+      "fireOnce": true,
+      "giveToAll": false
+    },
+    {
+      "name": "Draconic_Sphere",
+      "iconStack": {
+        "name": "draconicevolution:energy_storage_core",
+        "stackSize": 1
+      },
+      "bookStack": {
+        "name": "minecraft:written_book",
+        "stackSize": 0,
+        "tagCompound": "{pages:[0:\"{\\\"text\\\":\\\"Complete a Tier 8 Draconic Sphere from the Draconic Evolution mod.\\\"}\"],author:\"slowpoke101\",title:\"Draconic_Sphere\"}"
+      },
+      "chatMessage": "FTBAchievement get! : Draconic_Sphere",
+      "fireOnce": true,
+      "giveToAll": false
+    }
+  ],
+  "craftingTriggers": [
+    {
+      "triggerItem": {
+        "name": "storagedrawers:controller",
+        "stackSize": 1
+      },
+      "achievement": "Drawer_Controller"
+    },
+    {
+      "achievement": "Furnace"
+    },
+    {
+      "achievement": "Jetpack"
+    },
+    {
+      "achievement": "Storage_Controller"
+    },
+    {
+      "triggerItem": {
+        "name": "enderio:blockCapBank",
+        "metaValue": 3,
+        "stackSize": 1
+      },
+      "achievement": "Capacitor"
+    },
+    {
+      "achievement": "Collector"
+    },
+    {
+      "achievement": "Generator"
+    },
+    {
+      "triggerItem": {
+        "name": "bigreactors:reactorcontroller",
+        "stackSize": 1
+      },
+      "achievement": "Reactor_Controller"
+    },
+    {
+      "achievement": "Furnace"
+    },
+    {
+      "achievement": "Jetpack"
+    },
+    {
+      "achievement": "Storage_Controller"
+    },
+    {
+      "achievement": "Collector"
+    },
+    {
+      "achievement": "Generator"
+    },
+    {
+      "triggerItem": {
+        "name": "mysticalagriculture:ultimate_furnace",
+        "stackSize": 1
+      },
+      "achievement": "Furnace"
+    },
+    {
+      "triggerItem": {
+        "name": "simplyjetpacks:itemJetpack",
+        "metaValue": 5,
+        "stackSize": 1,
+        "tagCompound": "{sjData:{}}"
+      },
+      "achievement": "Jetpack"
+    },
+    {
+      "triggerItem": {
+        "name": "refinedstorage:controller",
+        "stackSize": 1
+      },
+      "achievement": "Storage_Controller"
+    },
+    {
+      "triggerItem": {
+        "name": "randomthings:advancedItemCollector",
+        "stackSize": 1
+      },
+      "achievement": "Collector"
+    },
+    {
+      "triggerItem": {
+        "name": "integrateddynamics:coalGenerator",
+        "stackSize": 1
+      },
+      "achievement": "Generator"
+    },
+    {
+      "triggerItem": {
+        "name": "botania:rainbowRod",
+        "stackSize": 1
+      },
+      "achievement": "Bifrost_Rod"
+    },
+    {
+      "triggerItem": {
+        "name": "actuallyadditions:itemDrill",
+        "metaValue": 3,
+        "stackSize": 1,
+        "tagCompound": "{Energy:0}"
+      },
+      "achievement": "Drill"
+    },
+    {
+      "triggerItem": {
+        "name": "tconstruct:scythe",
+        "stackSize": 1,
+        "tagCompound": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:2358,HarvestLevel:4,Attack:4.1f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:2358,HarvestLevel:4,Attack:4.1f},Special:{Categories:[0:\"weapon\",1:\"harvest\",2:\"tool\"]},TinkerData:{Materials:[0:\"cobalt\",1:\"cobalt\",2:\"cobalt\",3:\"cobalt\"],Modifiers:[0:\"toolleveling\"]},Modifiers:[0:{identifier:\"lightweight\",color:-14122284,level:1},1:{identifier:\"momentum\",color:-14122284,level:1},2:{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[0:\"lightweight\",1:\"momentum\",2:\"toolleveling\"]}"
+      },
+      "achievement": "Scythe"
+    },
+    {
+      "triggerItem": {
+        "name": "rftools:item_filter",
+        "stackSize": 1
+      },
+      "achievement": "Item_Filter"
+    },
+    {
+      "triggerItem": {
+        "name": "fluxnetworks:FluxPlug",
+        "stackSize": 1
+      },
+      "achievement": "Flux_Net"
+    },
+    {
+      "triggerItem": {
+        "name": "fluxnetworks:FluxPoint",
+        "stackSize": 2
+      },
+      "achievement": "Flux_Net"
+    },
+    {
+      "triggerItem": {
+        "name": "tp:emerald_cobblegen_block",
+        "stackSize": 1
+      },
+      "achievement": "Cobblegen"
+    },
+    {
+      "triggerItem": {
+        "name": "actuallyadditions:itemFillingWand",
+        "stackSize": 1,
+        "tagCompound": "{Energy:0}"
+      },
+      "achievement": "Handheld_Filler"
+    },
+    {
+      "triggerItem": {
+        "name": "fluxnetworks:FluxController",
+        "stackSize": 1
+      },
+      "achievement": "Flux_Controller"
+    },
+    {
+      "triggerItem": {
+        "name": "harvestcraft:epicbaconItem",
+        "stackSize": 1
+      },
+      "achievement": "Epic_Bacon"
+    }
+  ],
+  "inputTriggers": [
+    {
+      "type": "rf",
+      "requirement": 500000,
+      "achievement": "RF_Power"
+    }
+  ],
+  "sieveTriggers": [
+    {
+      "meshType": "string",
+      "achievement": "Mesh_Sieve"
+    }
+  ],
+  "guiTriggers": [],
+  "scTriggers": [
+    {
+      "moduleName": "SideChests",
+      "achievement": "Cart"
+    },
+    {
+      "moduleName": "Smelter",
+      "achievement": "Cart"
+    },
+    {
+      "moduleName": "CoalStandard",
+      "achievement": "Cart"
+    },
+    {
+      "moduleName": "WoodcutterDiamond",
+      "achievement": "Cart"
+    }
+  ],
+  "bmTriggers": [
+    {
+      "tier": 5,
+      "achievement": "Altar"
+    }
+  ],
+  "deTriggers": [
+    {
+      "tier": 8,
+      "achievement": "Draconic_Sphere"
+    }
+  ],
+  "vmTriggers": [
+    {
+      "tier": 4,
+      "achievement": "Void_Miner"
+    }
+  ],
+  "crusherTriggers": [
+    {
+      "achievement": "Crusher"
+    }
+  ],
+  "leaderboard": {
+    "packName": "SF3challenge1"
+  }
+}

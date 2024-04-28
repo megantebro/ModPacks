@@ -1,0 +1,10 @@
+{
+  "id": "amerifrance.guideapi:guideapi:1.10.2-2.0.3-46@jar",
+  "name": "Guide-API",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 195655,
+    "url": "https://edge.forgecdn.net/files/2380/911/Guide-API-1.10.2-2.0.3-46.jar",
+    "MD5": "2d9d5ea48ecfde3a5407c7babde212fd"
+  }
+}

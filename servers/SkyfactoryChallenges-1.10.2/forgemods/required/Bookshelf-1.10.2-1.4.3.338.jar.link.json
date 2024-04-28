@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:bookshelf:1.10.2-1.4.3.338@jar",
+  "name": "Bookshelf",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 201822,
+    "url": "https://edge.forgecdn.net/files/2347/107/Bookshelf-1.10.2-1.4.3.338.jar",
+    "MD5": "8860fb80efab36dd595e8e556ec6065f"
+  }
+}

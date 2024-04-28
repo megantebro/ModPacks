@@ -1,0 +1,10 @@
+{
+  "id": "lumien.resourceloader:ResourceLoader:1.5.1@jar",
+  "name": "Resource Loader",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 12088,
+    "url": "https://edge.forgecdn.net/files/2307/834/ResourceLoader-MC1.9.4-1.5.1.jar",
+    "MD5": "fd851602890014f31b54ad0e009e5612"
+  }
+}

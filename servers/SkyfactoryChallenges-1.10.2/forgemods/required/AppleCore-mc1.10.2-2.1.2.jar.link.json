@@ -1,0 +1,10 @@
+{
+  "id": "squeek.applecore:AppleCore:2.1.2@jar",
+  "name": "AppleCore",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 86110,
+    "url": "https://edge.forgecdn.net/files/2391/970/AppleCore-mc1.10.2-2.1.2.jar",
+    "MD5": "51e2392cd7ca46b1c769497e3bc5fafa"
+  }
+}

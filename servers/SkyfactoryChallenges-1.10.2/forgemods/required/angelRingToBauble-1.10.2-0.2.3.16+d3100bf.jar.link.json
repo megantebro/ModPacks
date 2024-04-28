@@ -1,0 +1,10 @@
+{
+  "id": "portablejim.frb:flyringbaublemod:0.2.3@jar",
+  "name": "AngelRing 2 Bauble",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 4635,
+    "url": "https://edge.forgecdn.net/files/2374/328/angelRingToBauble-1.10.2-0.2.3.16+d3100bf.jar",
+    "MD5": "b8649cc35420450f80dd5ef0e5deb787"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/softdata/git/KPWModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.1.0",
+    "name": "SkyfactoryChallenges (Minecraft 1.10.2)",
+    "description": "SkyfactoryChallenges Running Minecraft 1.10.2 (Forge v12.18.3.2254)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "12.18.3.2254"
+  },
+  "untrackedFiles": []
+}

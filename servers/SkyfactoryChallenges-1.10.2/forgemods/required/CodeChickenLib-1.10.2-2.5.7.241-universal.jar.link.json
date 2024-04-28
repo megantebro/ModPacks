@@ -1,0 +1,10 @@
+{
+  "id": "codechicken.lib:CodeChickenLib:2.5.7.241@jar",
+  "name": "CodeChicken Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 677094,
+    "url": "https://edge.forgecdn.net/files/2396/107/CodeChickenLib-1.10.2-2.5.7.241-universal.jar",
+    "MD5": "2131fa7965c3ee0f9933f150905d714d"
+  }
+}
