@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/git/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "chunk-by-chunk (Minecraft 1.20.1)",
+    "description": "1チャンクずつ攻略していく新感覚マイクラ (Forge v47.3.0)",
+    "icon": "",
+    "address": "",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": []
+}

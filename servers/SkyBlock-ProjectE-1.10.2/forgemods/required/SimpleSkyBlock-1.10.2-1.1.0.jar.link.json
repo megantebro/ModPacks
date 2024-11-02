@@ -1,0 +1,10 @@
+{
+  "id": "adver.sarius.ssb:simpleskyblock:1.10.2-1.1.0@jar",
+  "name": "SimpleSkyBlock",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 134483,
+    "url": "https://edge.forgecdn.net/files/2358/63/SimpleSkyBlock-1.10.2-1.1.0.jar",
+    "MD5": "9117606f26197ad098805c6e610f3304"
+  }
+}

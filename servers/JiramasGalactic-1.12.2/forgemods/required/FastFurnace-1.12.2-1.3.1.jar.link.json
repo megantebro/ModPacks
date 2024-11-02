@@ -1,0 +1,10 @@
+{
+  "id": "shadows.fastfurnace:fastfurnace:1.12.2-1.3.1@jar",
+  "name": "FastFurnace",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 10035,
+    "url": "https://edge.forgecdn.net/files/2706/111/FastFurnace-1.12.2-1.3.1.jar",
+    "MD5": "b84cc8a587dbd35fef2dbc3e0b9435aa"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fr.raksrinana.fallingtree:falling_tree:2.4.0@jar",
+  "name": "Falling Tree",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 168418,
+    "url": "https://edge.forgecdn.net/files/3064/35/FallingTree-1.12.2-2.4.0.jar",
+    "MD5": "55c655ebb5f474fea7ab11609fdf584d"
+  }
+}

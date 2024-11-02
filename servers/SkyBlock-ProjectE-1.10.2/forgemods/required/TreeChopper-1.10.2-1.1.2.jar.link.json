@@ -1,0 +1,10 @@
+{
+  "id": "treechopper.core:treechopper:1.1.2@jar",
+  "name": "TreeChopper",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 131181,
+    "url": "https://edge.forgecdn.net/files/2386/157/TreeChopper-1.10.2-1.1.2.jar",
+    "MD5": "a06737efdf40edfbf2e7107cc409a105"
+  }
+}

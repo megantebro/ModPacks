@@ -1,0 +1,10 @@
+{
+  "id": "meldexun.renderlib:renderlib:1.3.4@jar",
+  "name": "RenderLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 204706,
+    "url": "https://edge.forgecdn.net/files/5101/529/RenderLib-1.12.2-1.3.4.jar",
+    "MD5": "45b42c80b4bd715532de7c2bd6d67095"
+  }
+}

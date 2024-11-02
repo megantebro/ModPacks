@@ -1,0 +1,10 @@
+{
+  "id": "com.jaquadro.minecraft.chameleon:Chameleon:1.10-2.2.2@jar",
+  "name": "Chameleon",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 94810,
+    "url": "https://edge.forgecdn.net/files/2355/632/Chameleon-1.10-2.2.2.jar",
+    "MD5": "19e80437f28779f68fcc363031d3e064"
+  }
+}

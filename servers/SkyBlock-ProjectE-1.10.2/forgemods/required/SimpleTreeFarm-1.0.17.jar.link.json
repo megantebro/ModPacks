@@ -1,0 +1,10 @@
+{
+  "id": "com.github.bluemonster122:simpletreefarm:1.0.17@jar",
+  "name": "Simple Tree Farm",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 140776,
+    "url": "https://edge.forgecdn.net/files/2341/761/SimpleTreeFarm-1.0.17.jar",
+    "MD5": "453107ffa9a1daea853d1e07c649d8d8"
+  }
+}

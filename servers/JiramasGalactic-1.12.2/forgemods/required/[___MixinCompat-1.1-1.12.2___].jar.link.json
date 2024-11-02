@@ -1,0 +1,10 @@
+{
+  "id": "io.github.notstirred:mixincompat:1.0-SNAPSHOT@jar",
+  "name": "Mixin Compatibility",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 867021,
+    "url": "https://edge.forgecdn.net/files/4641/243/[___MixinCompat-1.1-1.12.2___].jar",
+    "MD5": "fe7215346cd78995664b2cc3f0319bcd"
+  }
+}

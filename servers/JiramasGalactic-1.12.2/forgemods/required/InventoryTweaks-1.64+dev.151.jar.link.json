@@ -1,0 +1,10 @@
+{
+  "id": "invtweaks:inventorytweaks:1.64+dev.151.822d839@jar",
+  "name": "Inventory Tweaks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 286144,
+    "url": "https://edge.forgecdn.net/files/2923/460/InventoryTweaks-1.64+dev.151.jar",
+    "MD5": "eff5b44c2e1019a262eafd0aaad4c4a9"
+  }
+}

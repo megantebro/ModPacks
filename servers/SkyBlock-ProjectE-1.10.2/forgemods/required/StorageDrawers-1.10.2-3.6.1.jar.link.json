@@ -1,0 +1,10 @@
+{
+  "id": "com.jaquadro.minecraft.storagedrawers:StorageDrawers:1.10.2-3.6.1@jar",
+  "name": "Storage Drawers",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 583497,
+    "url": "https://edge.forgecdn.net/files/2389/5/StorageDrawers-1.10.2-3.6.1.jar",
+    "MD5": "3c81756b928c4f9733c541bf3d9c66e2"
+  }
+}

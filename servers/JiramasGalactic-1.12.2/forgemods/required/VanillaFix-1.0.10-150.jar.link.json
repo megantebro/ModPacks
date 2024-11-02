@@ -1,0 +1,10 @@
+{
+  "id": "org.dimdev:vanillafix:1.0.10-150@jar",
+  "name": "VanillaFix",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1025896,
+    "url": "https://edge.forgecdn.net/files/2915/154/VanillaFix-1.0.10-150.jar",
+    "MD5": "a74aaab68100e03f54e35d1007d50169"
+  }
+}

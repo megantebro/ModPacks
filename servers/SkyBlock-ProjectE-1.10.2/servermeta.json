@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/git/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.4",
+    "name": "SkyBlock-ProjectE (Minecraft 1.10.2)",
+    "description": "錬金術で世界を拡大するスカイブロック(Forge v12.18.3.2254)",
+    "icon": "",
+    "address": "",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "12.18.3.2254"
+  },
+  "untrackedFiles": []
+}

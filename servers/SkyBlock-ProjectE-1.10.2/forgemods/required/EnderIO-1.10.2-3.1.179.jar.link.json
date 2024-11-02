@@ -1,0 +1,10 @@
+{
+  "id": "crazypants.enderio:EnderIO:1.10.2-3.1.179@jar",
+  "name": "Ender IO",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 4945557,
+    "url": "https://edge.forgecdn.net/files/2392/869/EnderIO-1.10.2-3.1.179.jar",
+    "MD5": "17e876355a49d344048932f75b36f79c"
+  }
+}

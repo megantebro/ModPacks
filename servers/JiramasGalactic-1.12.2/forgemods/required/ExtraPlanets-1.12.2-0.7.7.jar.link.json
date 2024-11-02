@@ -1,0 +1,10 @@
+{
+  "id": "com.mjr:extraplanets:1.12.2-0.7.7@jar",
+  "name": "Extra Planets",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 8737844,
+    "url": "https://edge.forgecdn.net/files/4756/976/ExtraPlanets-1.12.2-0.7.7.jar",
+    "MD5": "4802a9f8a5cdc7791a490afb2cbf5c66"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftblibrary:2001.2.4@jar",
+  "name": "FTB Library",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 791152,
+    "url": "https://edge.forgecdn.net/files/5567/591/ftb-library-forge-2001.2.4.jar",
+    "MD5": "e60f8af3ffa7cb3ccffee661efa5de15"
+  }
+}

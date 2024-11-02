@@ -1,0 +1,10 @@
+{
+  "id": "com.workshopcraft:simplebarrels:1.26e@jar",
+  "name": "Simple Barrels",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 114113,
+    "url": "https://edge.forgecdn.net/files/2367/477/simplebarrels-1.26e.jar",
+    "MD5": "41fd05c0a2251c0a54fda756e15df631"
+  }
+}

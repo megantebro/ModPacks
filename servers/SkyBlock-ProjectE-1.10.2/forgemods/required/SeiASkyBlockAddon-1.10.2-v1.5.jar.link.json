@@ -1,0 +1,10 @@
+{
+  "id": "seia.skyblockaddon:SeiASkyBlockAddon:1.10.2-v1.5@jar",
+  "name": "SeiA's SkyBlock Addon",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 12889,
+    "url": "https://edge.forgecdn.net/files/2321/262/SeiASkyBlockAddon-1.10.2-v1.5.jar",
+    "MD5": "2c58e84193cc5af3b067ff2fe64e5d56"
+  }
+}

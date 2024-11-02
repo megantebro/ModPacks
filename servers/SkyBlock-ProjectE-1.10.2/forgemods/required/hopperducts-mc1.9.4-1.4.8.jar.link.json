@@ -1,0 +1,10 @@
+{
+  "id": "net.fybertech:hopperducts:mc1.9.4-1.4.8@jar",
+  "name": "Hopper Ducts",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 52246,
+    "url": "https://edge.forgecdn.net/files/2329/958/hopperducts-mc1.9.4-1.4.8.jar",
+    "MD5": "90b5d20743b38f3cb477e14e3fadf461"
+  }
+}

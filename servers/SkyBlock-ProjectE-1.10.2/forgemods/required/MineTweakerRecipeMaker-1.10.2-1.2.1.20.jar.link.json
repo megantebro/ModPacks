@@ -1,0 +1,10 @@
+{
+  "id": "net.doubledoordev:mtrm:1.2.1.20@jar",
+  "name": "MineTweakerRecipeMaker",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 33318,
+    "url": "https://edge.forgecdn.net/files/2344/49/MineTweakerRecipeMaker-1.10.2-1.2.1.20.jar",
+    "MD5": "ee3e0babcfe11d90b78b649e7d5db40b"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "item": "actuallyadditions:itemMisc|5",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:blockMisc|3",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:dirt|0",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:sand|0",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:gravel|0",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:iron_ingot|0",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:gold_ingot|0",
+      "emc": 16384
+    }
+  ]
+}

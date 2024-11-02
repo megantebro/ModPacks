@@ -1,0 +1,10 @@
+{
+  "id": "shetiphian.endertanks:endertanks:1.10.0-1.4.11@jar",
+  "name": "EnderTanks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 225150,
+    "url": "https://edge.forgecdn.net/files/2390/558/endertanks-1.10.0-1.4.11.jar",
+    "MD5": "4bf880a22034bb63116ac07405b0bf0d"
+  }
+}
