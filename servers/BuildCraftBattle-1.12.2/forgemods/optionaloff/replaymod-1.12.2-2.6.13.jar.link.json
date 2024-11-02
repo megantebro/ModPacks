@@ -1,0 +1,10 @@
+{
+  "id": "com.replaymod.core:replaymod:1.12.2-2.6.13@jar",
+  "name": "Replay Mod",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 14311404,
+    "url": "https://edge.forgecdn.net/files/4798/232/replaymod-1.12.2-2.6.13.jar",
+    "MD5": "09e2df39fd9f72d74bbeb60fa876b6e9"
+  }
+}
