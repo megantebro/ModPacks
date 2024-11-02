@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:netherportalfix:mc1.9.4-4.0.1@jar",
+  "name": "Nether Portal Fix",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 6136,
+    "url": "https://edge.forgecdn.net/files/2301/216/netherportalfix-mc1.9.4-4.0.1.jar",
+    "MD5": "1c2dea8eae5594999d56dc4d437d73c6"
+  }
+}

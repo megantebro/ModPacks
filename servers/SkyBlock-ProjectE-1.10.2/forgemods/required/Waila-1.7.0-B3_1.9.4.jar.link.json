@@ -1,0 +1,10 @@
+{
+  "id": "mcp.mobius.waila:Waila:1.7.0-B3@jar",
+  "name": "Waila",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 544490,
+    "url": "https://edge.forgecdn.net/files/2301/859/Waila-1.7.0-B3_1.9.4.jar",
+    "MD5": "ad5733255dac0b85b9bbe38749638060"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "xyz.immortius:chunkbychunk:2.2.3@jar",
+  "name": "Chunk By Chunk",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 384127,
+    "url": "https://edge.forgecdn.net/files/5168/269/ChunkByChunk-forge-1.20.1-2.2.3.jar",
+    "MD5": "7de6b70695e055a0faf263f6b594a4c5"
+  }
+}

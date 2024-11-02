@@ -1,0 +1,10 @@
+{
+  "id": "cubex2.mods.chesttransporter:ChestTransporter:1.10.2-2.5.10@jar",
+  "name": "Chest Transporter",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 120834,
+    "url": "https://edge.forgecdn.net/files/2397/100/ChestTransporter-1.10.2-2.5.10.jar",
+    "MD5": "4fe158aba4ff6cd65d3035c0505a1277"
+  }
+}

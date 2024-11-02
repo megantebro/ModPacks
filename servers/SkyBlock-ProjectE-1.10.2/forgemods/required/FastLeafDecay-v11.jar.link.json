@@ -1,0 +1,10 @@
+{
+  "id": "net.olafkeijsers:fastleafdecay:v11@jar",
+  "name": "Fast Leaf Decay",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 4802,
+    "url": "https://edge.forgecdn.net/files/2318/159/FastLeafDecay-v11.jar",
+    "MD5": "b11e8eea1578659abe1b2e3f777d0ae0"
+  }
+}

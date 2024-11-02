@@ -1,0 +1,10 @@
+{
+  "id": "com.pam:harvestcraft:1.9.4-1.10.2g@jar",
+  "name": "Pam's HarvestCraft",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3055612,
+    "url": "https://edge.forgecdn.net/files/2341/593/Pam%27s%20HarvestCraft%201.9.4-1.10.2h.jar",
+    "MD5": "49095051cacbf4a1554374f58c3f74da"
+  }
+}
