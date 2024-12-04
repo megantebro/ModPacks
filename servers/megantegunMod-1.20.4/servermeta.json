@@ -4,12 +4,12 @@
     "version": "1.0.0",
     "name": "megantegunMod (Minecraft 1.20.4)",
     "description": "megantegunMod Running Minecraft 1.20.4 (Forge v49.1.0)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "icon": "",
+    "address": "",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
     },
     "mainServer": false,
     "autoconnect": false
